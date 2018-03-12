@@ -1,0 +1,25 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# Yarn error
+yarn-error.log
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Configuration files
+resources.yml
+
+# Data directories
+alt
+data
